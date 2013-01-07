@@ -33,4 +33,4 @@ setup(name='ipaddress',
           'Topic :: Internet',
           'Topic :: Software Development :: Libraries',
           'Topic :: System :: Networking'],
-      py_modules=['ipaddr'])
+      py_modules=['ipaddress'])
