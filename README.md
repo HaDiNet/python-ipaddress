@@ -4,4 +4,4 @@
 
 ## Installation
 
-`pip install git+git://github.com/leonhandreke/python-ipaddress.git`
+`pip install git+git://github.com/HaDiNet/python-ipaddress.git`
